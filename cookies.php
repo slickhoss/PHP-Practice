@@ -19,4 +19,4 @@
      }
     //to destroy a cookie create a cookie with the same name and set its expiry to the past
     //     setcookie($cookieName, $cookieValue, time() - $timespan);
-     ?>
+     ?> 
